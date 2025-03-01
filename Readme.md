@@ -3,6 +3,7 @@
 Repo for Meetup on topic Inspired by Aspire, 27.2.2025
 
 Presentation is [here](https://github.com/frno10/InspiredByAspire/blob/main/Inspired%20by%20Aspire%20NEW.pdf)
+
 Older presentation focused on OpenTelemetry is also included [here](https://github.com/frno10/InspiredByAspire/blob/main/Code%20%26%20Coffee%20-%20OpenTelemetry.pdf)
 
 ## Sample in AspireApplication
@@ -42,4 +43,4 @@ It also provides overview on introducing:
 - own Counter under Meter, prividing insight in Dashboard - Metrics
 - introducing own trace using ActivitySource under System.Diagnostics library
 
-Sample3 also has a detailed Readme.md file which contains step by step guide from a plain Program.cs to get into fully developer class we want to showcase (available in Program-full.cs).
+Sample3 also has a detailed [Readme.md](https://github.com/frno10/InspiredByAspire/blob/main/ManualTelemetry/sample3/MinimalApiMeetupDemo/Readme.md) file which contains step by step guide from a plain Program.cs to get into fully developer class we want to showcase (available in Program-full.cs).
