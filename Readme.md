@@ -2,8 +2,8 @@
 
 Repo for Meetup on topic Inspired by Aspire, 27.2.2025
 
-Presentation is [here|https://github.com/frno10/InspiredByAspire/blob/main/Inspired%20by%20Aspire%20NEW.pdf]
-Older presentation focused on OpenTelemetry is also included [here|https://github.com/frno10/InspiredByAspire/blob/main/Code%20%26%20Coffee%20-%20OpenTelemetry.pdf]
+Presentation is [here](https://github.com/frno10/InspiredByAspire/blob/main/Inspired%20by%20Aspire%20NEW.pdf)
+Older presentation focused on OpenTelemetry is also included [here](https://github.com/frno10/InspiredByAspire/blob/main/Code%20%26%20Coffee%20-%20OpenTelemetry.pdf)
 
 ## Sample in AspireApplication
 
